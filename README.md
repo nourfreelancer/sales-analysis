@@ -1,2 +1,2 @@
 # sales-analysis
-Python automation project to clean and analyze sales data
+Python automation project to clean and analyze sales data from CSV
